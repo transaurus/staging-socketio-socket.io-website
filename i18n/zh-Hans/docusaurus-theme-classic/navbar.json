@@ -1,0 +1,94 @@
+{
+  "title": {
+    "message": "Socket.IO",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Socket.IO logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Server API": {
+    "message": "Server API",
+    "description": "Navbar item with label Server API"
+  },
+  "item.label.Client API": {
+    "message": "Client API",
+    "description": "Navbar item with label Client API"
+  },
+  "item.label.Ecosystem": {
+    "message": "Ecosystem",
+    "description": "Navbar item with label Ecosystem"
+  },
+  "item.label.About": {
+    "message": "About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Guide": {
+    "message": "Guide",
+    "description": "Navbar item with label Guide"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Examples": {
+    "message": "Examples",
+    "description": "Navbar item with label Examples"
+  },
+  "item.label.Emit cheatsheet": {
+    "message": "Emit cheatsheet",
+    "description": "Navbar item with label Emit cheatsheet"
+  },
+  "item.label.Troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "Navbar item with label Troubleshooting"
+  },
+  "item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "Navbar item with label Stack Overflow"
+  },
+  "item.label.GitHub Discussions": {
+    "message": "GitHub Discussions",
+    "description": "Navbar item with label GitHub Discussions"
+  },
+  "item.label.Slack": {
+    "message": "Slack",
+    "description": "Navbar item with label Slack"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Twitter": {
+    "message": "Twitter",
+    "description": "Navbar item with label Twitter"
+  },
+  "item.label.CDN": {
+    "message": "CDN",
+    "description": "Navbar item with label CDN"
+  },
+  "item.label.Admin UI": {
+    "message": "Admin UI",
+    "description": "Navbar item with label Admin UI"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.Changelog": {
+    "message": "Changelog",
+    "description": "Navbar item with label Changelog"
+  },
+  "item.label.Roadmap": {
+    "message": "Roadmap",
+    "description": "Navbar item with label Roadmap"
+  },
+  "item.label.Become a sponsor": {
+    "message": "Become a sponsor",
+    "description": "Navbar item with label Become a sponsor"
+  }
+}

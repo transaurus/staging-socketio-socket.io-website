@@ -69,7 +69,7 @@ module.exports = {
   tagline: "Dinosaurs are cool",
   url: "https://socket.io",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: "warn",
   favicon: "images/favicon.png",
   organizationName: "socketio",
@@ -305,6 +305,6 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "es", "fr", "pt-br", "zh-CN"],
+    locales: ["en", "zh-Hans"],
   }
 };
